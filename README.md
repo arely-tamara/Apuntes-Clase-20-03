@@ -116,11 +116,38 @@ Además, promueve principios como la libertad por sobre el precio, el copyleft p
 
 Ambos promueven el acceso al código y la colaboración. Se agrupan como FOSS o FLOSS. El software libre no siempre es gratuito (freeware ≠ libre)
 
-### Design By Numbers - John Maeda
+## Design By Numbers - John Maeda
 
 Experimento educativo radical, Lanzado en 1999 por John Maeda en el MIT Media Lab. Consistía en un lenguaje de programación y entornodiseñado específicamente para enseñar a diseñadores visuales a programar.
   * Todo el espacio de trabajo era una cuadrícula fija de 100x100 píxeles.
   * No había colores RGB complejos. Solo existía el "porcentaje de tinta".0 era blanco (papel vacío) y 100 era negro total.
   * Maeda eliminó los puntos y comas, las llaves {} complejas y las declaraciones de tipos de variables. El código se leía fácilmente: Line 10 10 90 90 (Dibuja una línea de x10,y10 a x90,y90).
     
-    
+_"El problema de usar herramientas como Photoshop es que estás limitado a lo que los ingenieros de Adobe imaginaron que podrías hacer. Cuando aprendes a programar, tú creas tus propias herramientas.”_ Paráfrasis de la filosofía de John Maeda (MIT Media Lab, c. 1999)
+
+### John Maeda
+
+  * Intersección Tecnología + Arte + Diseño
+  *  Director Aesthetics and Computation Group (ACG) en el MIT Media Lab
+  *  Presidente de la (2008 - 2013) Rhode Island School of Design (RISD) STEAM
+  *  Vicepresidente de Diseño e IA en Microsoft
+  *  Creador de Designed by numbers
+
+![John Maeda](https://static.wixstatic.com/media/aa62e7_a1f528a99e44445a937871e680addd08~mv2.jpg/v1/fill/w_980,h_692,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aa62e7_a1f528a99e44445a937871e680addd08~mv2.jpg)
+
+## Processing
+
+Software libre y de código abierto creado en 2001 por Ben Fry y Casey Reas en el MIT Media Lab. Está orientado a la enseñanza de programación en entornos visuales, permitiendo crear gráficos, animaciones e interacciones. Surge como evolución de Design by Numbers, incorporando color y tamaño variable, manteniendo una sintaxis simple y el concepto de “sketchbook”.
+
+![processing](https://i.blogs.es/2f1ce2/650_1000_processing-lenguaje/650_1200.jpg)
+
+  * Ejemplos:
+     * Facial pixel
+     * Dragon´s Palace
+     * Ondulations Atmosphériques de Tétouan
+     * Slime Molds
+## P5.Js - Lauren Mccarthy
+p5.js es una biblioteca de JavaScript libre y de código abierto, diseñada para aprender programación y crear arte de forma sencilla. Es una herramienta online accesible, inclusiva y orientada a la comunidad. Permite crear obras audiovisuales, interactivas y experimentales, haciendo que dibujar con código sea tan intuitivo como hacerlo en un cuaderno.
+
+![p5.js](https://p5js.org/_astro/SetupA.MT9CUmVs_UdPSt.jpg)
+
