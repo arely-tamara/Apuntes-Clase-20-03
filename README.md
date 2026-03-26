@@ -68,3 +68,59 @@ Originalmente fue definida por Alan Turing en 1936 como una “máquina automát
   * 1956: Video analógico de Ampex, grabación de imágenes en cinta magnética.
   * 1967: Videocámara portátil de Sony, primera cámara de video portátil.
 
+## Fase 2: El despertar visual
+
+### Artistas y algoritmos
+
+La mayoría de los intentos por crear arte con computadoras surgieron en la década de 1960, en un contexto artístico diverso. Pioneros del arte computacional incluyen a Vera Molnár, Manfred Mohr, Georg Nees, Frieder Nake, Lillian Schwartz, Hiroshi Kawano, el Computer Technique Group y Waldemar Cordeiro.
+
+_“Domaremos el encanto trascendental del computador e impediremos que sirva al poder establecido. Éste es el planteamiento adecuado para solucionar problemas complejos en la sociedad de las maquina”_ CTG ( Computer Technique Group)
+
+##  *  Exposición Cybernetic Serendipity - LONDRES,1968.
+  
+![Exposición](https://proyectoidis.org/wp-content/uploads/1968/08/Cybernetic-Serendipity-1.jpg)
+
+##  *  Arte y cibernética organizada por Jorge Glusberg - ARGENTINA 1969
+![Arte y cibernetica](https://libreriaelastillero.com/5195-large_default/arte-y-cibernetica-san-francisco-londres-buenos-aires-abril-1971.jpg)
+
+##  * John & James Whitney
+
+Fueron pioneros en la animación por computadora (Computer Graphics Animation). Whitney utilizó inicialmente un computador analógico de la Segunda Guerra Mundial, modificándolo para transformar voltajes en movimientos de cámara y luz sobre celuloide. Además, introdujeron conceptos como el diseño paramétrico y el movimiento armónico.
+
+![John y James Whitney](https://canyoncinema.com/wp-content/uploads/Whitneys_1-1024x781.jpg)
+
+##  * Sketchpad Ivan Sutherland: _"padre de la computación gráfica"_
+
+En 1963, Sutherland creó el primer programa que permitía dibujar en pantalla con un lápiz óptico. Introdujo la manipulación directa de objetos, siendo clave en la interacción humano-computador y base del diseño asistido por computador. Además, planteó una forma visual de programación orientada a objetos, donde cambios en un modelo base se replicaban en todas sus copias.
+
+![Sketchpad](https://bimaplus.org/wp-content/uploads/2018/12/ImageToNews_Sketchpad-01.png)
+
+## * Douglas Engelbart 1968: CONCEPTO DE BITMAPPING - VENTANAS MANIPULACIÓN - DIRECTA MEDIANTE UN MOUSE
+
+![Douglas](https://lh3.googleusercontent.com/proxy/7s-fWvDi4h3zm-xkdokWSaoFgHvw_KlvdzUS0KGyuPKGoZa7GU005VbtXfDZywmLZWKuq5_jjFGwSZoA1-xBIfZvF7H49_SaodhM)
+
+## Fase 3: Democratización del creative coding
+
+### 1.Software Libre
+
+El software libre surge en 1983 con el Proyecto GNU de Richard Stallman, con el objetivo de crear un sistema operativo libre. En 1985 se publica el Manifiesto GNU y se funda la Free Software Foundation, como respuesta a la privatización del software.
+
+Se basa en cuatro libertades: usar el programa, estudiarlo y modificarlo (con acceso al código), distribuir copias y mejorar el software compartiendo los cambios.
+Además, promueve principios como la libertad por sobre el precio, el copyleft para mantener el software libre, la oposición a restricciones como patentes y DRM, y el desarrollo de un sistema operativo completamente libre.
+
+## Software Libre vs Open Source
+
+  * Software Libre: enfoque ético y social, centrado en la libertad del usuario y sus derechos. Considera el software privativo como un problema. Representado por la FSF y Richard Stallman.
+
+  * Open Source: enfoque práctico y técnico, centrado en la calidad, eficiencia y colaboración. Considera el software privativo aceptable, pero inferior técnicamente. Representado por la OSI, Eric S. Raymond y Bruce Perens.
+
+Ambos promueven el acceso al código y la colaboración. Se agrupan como FOSS o FLOSS. El software libre no siempre es gratuito (freeware ≠ libre)
+
+### Design By Numbers - John Maeda
+
+Experimento educativo radical, Lanzado en 1999 por John Maeda en el MIT Media Lab. Consistía en un lenguaje de programación y entornodiseñado específicamente para enseñar a diseñadores visuales a programar.
+  * Todo el espacio de trabajo era una cuadrícula fija de 100x100 píxeles.
+  * No había colores RGB complejos. Solo existía el "porcentaje de tinta".0 era blanco (papel vacío) y 100 era negro total.
+  * Maeda eliminó los puntos y comas, las llaves {} complejas y las declaraciones de tipos de variables. El código se leía fácilmente: Line 10 10 90 90 (Dibuja una línea de x10,y10 a x90,y90).
+    
+    
