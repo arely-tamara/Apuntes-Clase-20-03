@@ -150,4 +150,3 @@ Software libre y de código abierto creado en 2001 por Ben Fry y Casey Reas en e
 p5.js es una biblioteca de JavaScript libre y de código abierto, diseñada para aprender programación y crear arte de forma sencilla. Es una herramienta online accesible, inclusiva y orientada a la comunidad. Permite crear obras audiovisuales, interactivas y experimentales, haciendo que dibujar con código sea tan intuitivo como hacerlo en un cuaderno.
 
 ![p5.js](https://p5js.org/_astro/SetupA.MT9CUmVs_UdPSt.jpg)
-
